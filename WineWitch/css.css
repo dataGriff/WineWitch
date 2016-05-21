@@ -1,0 +1,28 @@
+﻿body{
+    background: #FFF0F5;
+}
+    img.instruction{
+		width: 150px;
+		height: 150px;
+        float: right;
+		margin-left: 10px;
+        display: block;
+		margin: 0px auto;
+		}   
+    div.instruction{
+        width: 500px;
+		height: 200px;
+    } 
+    div.winebox1{
+        background: #EED2EE;
+    }
+     div.winebox2{
+        background: #FFE4E1;
+    }
+    .div.wines:nth-of-type(odd) {
+    background: #FFE4E1;
+    }
+     .div.wines:nth-of-type(even) {
+    background: #EED2EE;
+    }
+
